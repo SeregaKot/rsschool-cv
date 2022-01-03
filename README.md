@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SeregaKot.github.io/rsschool-cv/
