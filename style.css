@@ -12,6 +12,7 @@ user-select: none;
 }
 .nav_header{
 display:flex;
+margin-top: 0px;
 }
 .nav_header li{
 padding: 10px;
